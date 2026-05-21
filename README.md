@@ -3,7 +3,8 @@
 - 기본적인 틀을 제공하며, 파일이나 폴더를 수정/업로드하여 사용합니다.  
 ---  
 레포구조:  
-  
+
+```
 AIFFEL_Quest_ENG  
 ├── 01_Python  
 │      ├── Py01  
@@ -92,4 +93,5 @@ AIFFEL_Quest_ENG
 │      │      └── README.md  
 │      └── MQ05  
 │             └── README.md  
-└── README.md  
+└── README.md 
+```
